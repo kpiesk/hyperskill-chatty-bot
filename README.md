@@ -1,4 +1,4 @@
-# hyperskill-python-simple-chatty-bot
+# hyperskill-simple-chatty-bot
 ### My Simple Chatty Bot project as part of the Hyperskill Jetbrains Academy Python Developer course.
 
 **Project Number**: #2
