@@ -3,7 +3,7 @@
 
 **Project Number**: #2
 
-**Covered Topics from the Course:** 20
+**Covered Topics from the Course:** #20
 
 **About:** A simple console chat bot which introduces itself, asks the user to introduce themselves, guesse the user's age using arithmetic operations, counts up to the number the user specified, and gives a test to the user and checks the answers. The bot repeats the test until the user answers correctly.
 
